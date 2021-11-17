@@ -9,5 +9,5 @@ Now that you have Node installed, run `npm install`.
 This will install all the required packages.
 
 ## Running the application
-Type `npm run start` or `yarn start` in the console to run the React server.
+Type `npm run start` in the console to run the React server.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
