@@ -1,5 +1,11 @@
-# idea
-./idea
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
 
 # dependencies
 /node_modules
