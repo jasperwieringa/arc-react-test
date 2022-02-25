@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebbef860-30f7-4909-88e8-be297e1dabe2" name="Changes" comment="Updated the Arc-React demo.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-    </list>
+    <list default="true" id="ebbef860-30f7-4909-88e8-be297e1dabe2" name="Changes" comment="Removed unused imports." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +84,7 @@
       <workItem from="1645793659386" duration="327000" />
       <workItem from="1645803275632" duration="587000" />
       <workItem from="1645804204267" duration="565000" />
-      <workItem from="1645804970099" duration="150000" />
+      <workItem from="1645804970099" duration="449000" />
     </task>
     <task id="LOCAL-00001" summary="Updated the README file">
       <created>1637157756126</created>
@@ -124,7 +121,21 @@
       <option name="project" value="LOCAL" />
       <updated>1645804754360</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated the Arc-React demo.">
+      <created>1645805156201</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1645805156201</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Removed unused imports.">
+      <created>1645805306154</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1645805306154</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +158,7 @@
     <MESSAGE value="Added the idea folder to the gitignore" />
     <MESSAGE value="Tested the new icon approach in React" />
     <MESSAGE value="Updated the Arc-React demo." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated the Arc-React demo." />
+    <MESSAGE value="Removed unused imports." />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed unused imports." />
   </component>
 </project>
