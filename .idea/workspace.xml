@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebbef860-30f7-4909-88e8-be297e1dabe2" name="Changes" comment="Added the idea folder to the gitignore">
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    <list default="true" id="ebbef860-30f7-4909-88e8-be297e1dabe2" name="Changes" comment="Tested the new icon approach in React">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/icons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/icons.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -89,7 +88,10 @@
       <workItem from="1637157314346" duration="57000" />
       <workItem from="1637157732026" duration="190000" />
       <workItem from="1637158788905" duration="1454000" />
-      <workItem from="1645782220239" duration="6255000" />
+      <workItem from="1645782220239" duration="6351000" />
+      <workItem from="1645793659386" duration="327000" />
+      <workItem from="1645803275632" duration="587000" />
+      <workItem from="1645804204267" duration="477000" />
     </task>
     <task id="LOCAL-00001" summary="Updated the README file">
       <created>1637157756126</created>
@@ -112,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637161349061</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Tested the new icon approach in React">
+      <created>1645792564486</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1645792564486</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +142,7 @@
     <MESSAGE value="Updated the README file" />
     <MESSAGE value="Removed the yarn.lock file&#10;Updated the version of @arc-web/components&#10;Changed the README file to exclude yarn" />
     <MESSAGE value="Added the idea folder to the gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the idea folder to the gitignore" />
+    <MESSAGE value="Tested the new icon approach in React" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tested the new icon approach in React" />
   </component>
 </project>
