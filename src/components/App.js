@@ -10,11 +10,9 @@ function App(props) {
 
     return (
         <arc-container theme={theme}>
-            <arc-navbar slot={'nav'}>
-                <arc-icon-button name={'home'}><></></arc-icon-button>
-            </arc-navbar>
-            <arc-sidebar slot={'side'} title={'Make a selection'}>
-                <div style={{padding: 'var(--arc-spacing-medium'}}>Some sidebar content</div>
+            <arc-navbar slot={'nav'} logo={'/assets/arc-red.svg'}><></></arc-navbar>
+            <arc-sidebar slot={'side'} title={'Sidebar title'}>
+                <div style={{padding: 'var(--arc-spacing-medium'}}>Sidebar content</div>
             </arc-sidebar>
             <section aria-label={'Demo section'} style={{padding: 'var(--arc-spacing-medium'}}>
                 Some content
